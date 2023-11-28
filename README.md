@@ -1,4 +1,4 @@
-# Hand-Tracking-with-Finger-Counting
+# Counting fingers using python & Open CV
 Using Python3 and Opencv, detect the both hands and counting the fingers by live video.
 
 In Internet many articles there for counting fingers with Hand Tracking. The resultant count of fingers are stand-up is showed on the video 
@@ -14,4 +14,4 @@ steps to run the:
 6. Webcam is opened and capture the video from your Webcam
 7. show the hands to webcam (most of the time hide your head), it detect and show the no.of fingers are stand/up.
 
-Note: Find the Resultant screen shot.
+Note: Find the Resultant snapshot.
